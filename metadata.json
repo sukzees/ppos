@@ -1,0 +1,5 @@
+{
+  "name": "Galaxy POS System",
+  "description": "A comprehensive Restaurant Management System featuring a customer-facing frontend and a robust admin dashboard with POS, Menu Management, and Analytics.",
+  "requestFramePermissions": []
+}
